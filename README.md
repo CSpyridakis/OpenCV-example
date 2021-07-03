@@ -1,4 +1,4 @@
-# OpenCV-example
+# OpenCV-example ![MIT license](https://img.shields.io/github/license/CSpyridakis/OpenCV-example.svg?style=plastic) 
 This is a demo, 'hello world' like, [OpenCV](https://opencv.org/) project usign C++. 
 
 You can use it to check that the library is properly installed in your Linux setup.

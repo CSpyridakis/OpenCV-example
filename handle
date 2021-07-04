@@ -3,7 +3,7 @@
 #
 #   Author : Spyridakis Christos
 #   Created Date : 3/7/2021
-#   Last Updated : 3/7/2021
+#   Last Updated : 4/7/2021
 #   Email : spyridakischristos@gmail.com
 #
 #   Description : Handle OpenCV project actions like Clean, Build and Run 
@@ -29,7 +29,7 @@ build(){
         exit 0
     fi 
 
-    # Check that executable's name is not empty
+    # Check that source's file name is not empty
     if [ -z ${MAIN_SRC} ]; then
         echo "Please give name for main source file"    
         exit 0

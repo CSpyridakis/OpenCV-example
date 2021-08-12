@@ -14,7 +14,7 @@ Run `./handle -h` to see all available options. `handle` script is responsible t
 E.g. In order to build project just run: `./handle -b`
 
 ## Notes
-1. To install [OpenCV](https://opencv.org/) on your Linux system visit [this](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html) link, or download and run [this](https://raw.githubusercontent.com/CSpyridakis/SCTT/master/shellScripts/Debian/install-opencv-ubuntu.sh) bash script (only for Debian-based systems) to automatically install from sources a basic version of [OpenCV](https://opencv.org/).
+1. To install [OpenCV](https://opencv.org/) on your Linux system visit [this](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html) link, or download and run [this](https://raw.githubusercontent.com/CSpyridakis/SCTT/master/shellScripts/Debian/install-opencv-debian-x86.sh) bash script (only for Debian-based systems) to automatically install from sources a basic version of [OpenCV](https://opencv.org/).
 
 2. If you want to change files' names, you may need to update `handle` script also.
 
